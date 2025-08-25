@@ -23,7 +23,8 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 2 April '25 | [AWS Community Day Italy 2025](https://www.awscommunityday.it/) | Empower your Bedrock agent with GraphRAG |
+| 2 April '25 | [AWS Community Day Italy 2025](https://youtu.be/99NHjI82d-o?list=PLWEeWQHSJhNbFEGQOUL4sxvX2gRaEbCNo) | Empower your Bedrock agent with GraphRAG |
+| 26 Mar '25 | AWS Community Day Slovakia 2025 | You don’t think about your Streamlit app optimization until you deploy it to AWS  |
 | 4 Oct '24 | [AWS Community Day - Hungary 2024](https://youtu.be/PrkDJeFESow?t=6032) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 7 May '24 | [AWS Community Day Nordics 2024](https://youtu.be/JYrGod1dzL4) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 
