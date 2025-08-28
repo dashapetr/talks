@@ -14,6 +14,7 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 9 September '25 | [AWS pre:Invent Warmup](https://www.meetup.com/preinvent-warmup-community/events/308781179/) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 10 September '25 | [AWS Community Day Baltic](https://www.eventbrite.co.uk/e/aws-community-day-baltic-tickets-1538089530189?aff=dp) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 6 November '25 | [Øredev 2025](https://oredev.org/program) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
 | 6 November '25 | [Øredev 2025](https://oredev.org/program) | Empower your Bedrock agent with GraphRAG |
