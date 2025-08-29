@@ -24,7 +24,6 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-
 | 6 May '25 | [AWS Summit Poland](https://aws.amazon.com/events/summits/poland/agenda/?ams%23interactive-card-vertical%23pattern-data-1353847323.filter=%257B%2522search%2522%253A%2522rag%2522%257D#) | Empower your Bedrock agent with GraphRAG |
 | 25 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/3VYSMS/) | You don’t think about your Streamlit app optimization until you try to deploy it to the cloud |
 | 25 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/9CRNU3/) | Building a HybridRAG Document Question-Answering System |
