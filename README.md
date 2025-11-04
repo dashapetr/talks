@@ -33,9 +33,11 @@ Date|Conference/Meetup|Talk
 | 26 May '25 | [AWS Women's User Group Jeddah](https://www.linkedin.com/feed/update/urn:li:activity:7329245326706421760?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Getting Started in the Cloud & Pathways to Cloud Careers  |
 | 18 April '25 | [AWS Community Day Turkey 2025](https://aws.cloudturkey.io/#schedules) | How to build a Bedrock agent for document processing |
 | 2 April '25 | [AWS Community Day Italy 2025](https://youtu.be/99NHjI82d-o?list=PLWEeWQHSJhNbFEGQOUL4sxvX2gRaEbCNo) | Empower your Bedrock agent with GraphRAG |
+| 2 April '25 | AWS Community Day Italy 2025 | Women in Tech Workshop |
 | 26 Mar '25 | [AWS Community Day Slovakia 2025](https://2025.awscommunityday.sk/speakers/darya-petrashka/) | You don’t think about your Streamlit app optimization until you deploy it to AWS  |
 | 26 Mar '25 | AWS Instructor and Partner Summit (TIPS) 2025 | Building an Amazon Bedrock Agent for Document Processing  |
 | Feb '25 | [Andrew Brown's Free GenAI Bootcamp](https://youtu.be/LvrxkJzNeFw?list=PLBfufR7vyJJ69c9MNlOKtO2w2KU5VzLJV) | Kana Writing Practice with Darya Petrashka - Learning session  |
+| 30 Jan '25 | [AWS User Group 3city](https://www.meetup.com/aws-user-group-3city/events/305513446/) | Workshop: Enhancing Accessibility Using Serverless  |
 | 4 Oct '24 | [AWS Community Day - Hungary 2024](https://youtu.be/PrkDJeFESow?t=6032) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 7 May '24 | [AWS Community Day Nordics 2024](https://youtu.be/JYrGod1dzL4) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 
