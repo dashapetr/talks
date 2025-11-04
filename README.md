@@ -38,6 +38,8 @@ Date|Conference/Meetup|Talk
 | 26 Mar '25 | AWS Instructor and Partner Summit (TIPS) 2025 | Building an Amazon Bedrock Agent for Document Processing  |
 | Feb '25 | [Andrew Brown's Free GenAI Bootcamp](https://youtu.be/LvrxkJzNeFw?list=PLBfufR7vyJJ69c9MNlOKtO2w2KU5VzLJV) | Kana Writing Practice with Darya Petrashka - Learning session  |
 | 30 Jan '25 | [AWS User Group 3city](https://www.meetup.com/aws-user-group-3city/events/305513446/) | Workshop: Enhancing Accessibility Using Serverless  |
+| 5 Dec '24 | AWS re:Invent 2024 |  Women in tech fireside chat - panelist  |
+| 3 Dec '24 | AWS re:Invent 2024 |  Moms in tech fireside chat - moderator and panelist  |
 | 4 Oct '24 | [AWS Community Day - Hungary 2024](https://youtu.be/PrkDJeFESow?t=6032) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 7 May '24 | [AWS Community Day Nordics 2024](https://youtu.be/JYrGod1dzL4) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 
