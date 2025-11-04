@@ -41,3 +41,6 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+| 26 May '25 | [AWS Women's User Group Jeddah](https://www.linkedin.com/feed/update/urn:li:activity:7329245326706421760?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Getting Started in the Cloud & Pathways to Cloud Careers  |
+| 3 Mar '25 | [Cloud Career Mentor](https://youtu.be/aonpybvIPlY) |  From project manager to AI Cloud Data Scientist   |
+| 17 Jan '25 | [AWS Developers Podcast](https://open.spotify.com/episode/3Vs8kMvEx8X4LBBG3sxkIM) |  Meet Darya, from sitting-at-home mom to data scientist   |
