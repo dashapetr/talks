@@ -26,8 +26,9 @@ Date|Conference/Meetup|Talk
 | 9 September '25 | [AWS pre:Invent Warmup](https://youtu.be/JRyXS9FyLhs?t=5948) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 28 Jun '25 | [“Serverless Saturdays” AWS UG Tirupati](https://youtu.be/b2isGkOxzNw?t=3947) | How to build a Bedrock agent for document processing |
 | 6 May '25 | [AWS Summit Poland](https://aws.amazon.com/events/summits/poland/agenda/?ams%23interactive-card-vertical%23pattern-data-1353847323.filter=%257B%2522search%2522%253A%2522rag%2522%257D#) | Empower your Bedrock agent with GraphRAG |
-| 25 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/3VYSMS/) | You don’t think about your Streamlit app optimization until you try to deploy it to the cloud |
+| 25 April '25 | [PyCon DE & PyData](https://youtu.be/OcGxDWNXPHU) | You don’t think about your Streamlit app optimization until you try to deploy it to the cloud |
 | 25 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/9CRNU3/) | Building a HybridRAG Document Question-Answering System |
+| 24 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/XB8VG7/) | Career Path Experience Stories - From Staying at Home Mom to Senior Data Scientist |
 | 18 April '25 | [AWS Community Day Turkey 2025](https://aws.cloudturkey.io/#schedules) | How to build a Bedrock agent for document processing |
 | 2 April '25 | [AWS Community Day Italy 2025](https://youtu.be/99NHjI82d-o?list=PLWEeWQHSJhNbFEGQOUL4sxvX2gRaEbCNo) | Empower your Bedrock agent with GraphRAG |
 | 26 Mar '25 | [AWS Community Day Slovakia 2025](https://2025.awscommunityday.sk/speakers/darya-petrashka/) | You don’t think about your Streamlit app optimization until you deploy it to AWS  |
