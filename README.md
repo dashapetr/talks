@@ -14,14 +14,15 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 6 November '25 | [Øredev 2025](https://oredev.org/program) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
-| 6 November '25 | [Øredev 2025](https://oredev.org/program) | Empower your Bedrock agent with GraphRAG |
+| 15 November '25 | [AWS London ON User Group](https://www.meetup.com/aws-london-on-user-group/events/311838782/?eventOrigin=group_events_list) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases |
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 6 November '25 | [Øredev 2025](https://oredev.org/program) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
+| 6 November '25 | [Øredev 2025](https://oredev.org/program) | Empower your Bedrock agent with GraphRAG |
 | 10 September '25 | [AWS Community Day Baltic](https://awsbaltic.eu/sessions/) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 9 September '25 | [AWS pre:Invent Warmup](https://youtu.be/JRyXS9FyLhs?t=5948) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 28 Jun '25 | [“Serverless Saturdays” AWS UG Tirupati](https://youtu.be/b2isGkOxzNw?t=3947) | How to build a Bedrock agent for document processing |
@@ -41,7 +42,9 @@ Date|Conference/Meetup|Talk
 | 5 Dec '24 | [AWS re:Invent 2024](https://www.linkedin.com/posts/daryapetrashka_aws-reinvent2024-fms-activity-7270686234170068992-GJy6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Women in tech fireside chat - panelist  |
 | 3 Dec '24 | [AWS re:Invent 2024](https://www.linkedin.com/posts/daryapetrashka_aws-reinvent2024-awscommunity-activity-7269972126302883841-4VsV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Moms in tech fireside chat - moderator and panelist  |
 | 4 Oct '24 | [AWS Community Day - Hungary 2024](https://youtu.be/PrkDJeFESow?t=6032) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
+| 24 Aug '24 | [JAWS PANKRATION 2024](https://jawspankration2024.jaws-ug.jp/en/timetable/TT-49/) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 7 May '24 | [AWS Community Day Nordics 2024](https://youtu.be/JYrGod1dzL4) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
+| 7 Sep '23 | [PyCon Portugal 2023](https://youtu.be/zH443rkt8YE?list=PLJuyPtMj1BkxXCMouwliRFk6eopYsG7fO) |  Amazon CodeWhisperer, ChatGPT, and GitHub Copilot: Choosing the Best Python AI Code Assistant  |
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
 
