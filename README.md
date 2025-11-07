@@ -32,7 +32,7 @@ Date|Conference/Meetup|Talk
 | 25 April '25 | [PyCon DE & PyData](https://youtu.be/OcGxDWNXPHU) | You don’t think about your Streamlit app optimization until you try to deploy it to the cloud |
 | 25 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/9CRNU3/) | Building a HybridRAG Document Question-Answering System |
 | 24 April '25 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2025/talk/XB8VG7/) | Career Path Experience Stories - From Staying at Home Mom to Senior Data Scientist |
-| 18 April '25 | [AWS Community Day Turkey 2025](https://aws.cloudturkey.io/#schedules) | How to build a Bedrock agent for document processing |
+| 18 April '25 | [AWS Community Day Turkey 2025](https://youtu.be/gZgHb6GTwlY) | How to build a Bedrock agent for document processing |
 | 2 April '25 | [AWS Community Day Italy 2025](https://youtu.be/99NHjI82d-o?list=PLWEeWQHSJhNbFEGQOUL4sxvX2gRaEbCNo) | Empower your Bedrock agent with GraphRAG |
 | 2 April '25 | AWS Community Day Italy 2025 | Women in Tech Workshop |
 | 26 Mar '25 | [AWS Community Day Slovakia 2025](https://2025.awscommunityday.sk/speakers/darya-petrashka/) | You don’t think about your Streamlit app optimization until you deploy it to AWS  |
@@ -42,6 +42,7 @@ Date|Conference/Meetup|Talk
 | 5 Dec '24 | [AWS re:Invent 2024](https://www.linkedin.com/posts/daryapetrashka_aws-reinvent2024-fms-activity-7270686234170068992-GJy6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Women in tech fireside chat - panelist  |
 | 3 Dec '24 | [AWS re:Invent 2024](https://www.linkedin.com/posts/daryapetrashka_aws-reinvent2024-awscommunity-activity-7269972126302883841-4VsV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6vDpYB2_L85UdBjjyv5Wq3BrfiNY4IW40) |  Moms in tech fireside chat - moderator and panelist  |
 | 4 Oct '24 | [AWS Community Day - Hungary 2024](https://youtu.be/PrkDJeFESow?t=6032) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
+| 18 Sep '24 | AWS Cloud Day Warsaw 2024 |  Building a Supply Chain Bedrock Agent  |
 | 24 Aug '24 | [JAWS PANKRATION 2024](https://jawspankration2024.jaws-ug.jp/en/timetable/TT-49/) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 7 May '24 | [AWS Community Day Nordics 2024](https://youtu.be/JYrGod1dzL4) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
 | 28 Mar '24 | [AWS User Group 3city](https://youtu.be/OZhWIUlUy-g?t=2627) |  Building an AI Chat Assistant with Amazon Bedrock Agent  |
