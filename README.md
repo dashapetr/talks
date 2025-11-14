@@ -55,6 +55,8 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+| 21 Jul '25 | [Kiro Youtube Channel](https://www.youtube.com/shorts/z1gbRMK26pA?feature=share) |  Having Kiro is Like Having a Friend to Whom You Can Delegate Parts of Work   |
+| 21 Jul '25 | [Kiro Youtube Channel](https://www.youtube.com/shorts/AYTexh_28TI?t=13&feature=share) |  I Haven't Seen An Advancement In Developer Process Like This Ever   |
 | 13 Jul '25 | [Thriving Career Moms](https://youtu.be/0Bxipqhrfzc) |  From Verb Tenses to Vectors: When It All Clicked - with Darya Petrashka   |
 | 31 Mar '25 | [Ready, Set, Cloud Newsletter](https://www.readysetcloud.io/newsletter/157/) |  Issue #157: A HUGE week for AI   |
 | 3 Mar '25 | [Cloud Career Mentor](https://youtu.be/aonpybvIPlY) |  From project manager to AI Cloud Data Scientist   |
