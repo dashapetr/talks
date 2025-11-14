@@ -56,7 +56,13 @@ Date|Conference/Meetup|Talk
 Date|Medium|Title
 :-----:|:-----:|:-------:
 | 13 Jul '25 | [Thriving Career Moms](https://youtu.be/0Bxipqhrfzc) |  From Verb Tenses to Vectors: When It All Clicked - with Darya Petrashka   |
+| 31 Mar '25 | [Ready, Set, Cloud Newsletter](https://www.readysetcloud.io/newsletter/157/) |  Issue #157: A HUGE week for AI   |
 | 3 Mar '25 | [Cloud Career Mentor](https://youtu.be/aonpybvIPlY) |  From project manager to AI Cloud Data Scientist   |
 | 17 Jan '25 | [AWS Developers Podcast](https://open.spotify.com/episode/3Vs8kMvEx8X4LBBG3sxkIM) |  Meet Darya, from sitting-at-home mom to data scientist   |
 | 10 Jan '25 | [Linkedin Fireside chat by Cyril Bandolo](https://www.linkedin.com/events/becomingadataanalystin20257280526870146650112/)|  Becoming a Data Analyst in 2025   |
-| 4 Jun '24 | [Logicast AWS News Podcast Season Three](https://youtu.be/qBhGU6zDKew)|  Season 3 Episode 21 - IPv6, Small Large Language Models and Leadership Changes   |
+| 14 Nov '24 | [AWS Blog for Industries](https://aws.amazon.com/blogs/industries/optimize-your-supply-chain-processes-with-generative-ai-on-aws/) |  Optimize Your Supply Chain Processes with Generative AI on AWS   |
+| 4 Jun '24 | [Logicast AWS News Podcast Season Three](https://youtu.be/qBhGU6zDKew) |  Season 3 Episode 21 - IPv6, Small Large Language Models and Leadership Changes   |
+| 4 May '24 | [AWS Builder Center](https://builder.aws.com/content/2fSeNg9i4tnvmVz7twxmnppCwNS/from-sitting-at-home-mom-to-data-scientist) |  From sitting-at-home mom to Data Scientist   |
+| 27 Jan '23 | [Dr. Joanne Skiles Youtube Channel](https://youtu.be/jS6HlWFrFok) |  Finding Your Path In Tech - Live Talk Session with Darya Petrashka   |
+| 10 Jan '23 | [Women Who Code](https://youtu.be/JBXINeNRXH4)|  AWS Community Builders Program - What Is It & How You Can Become One  |
+| 30 Dec '22 | [Julia F Morgado Youtube Channel](https://youtu.be/P6fCDTz6fPY) |  AWS Community Builders Program - What is it & How you can become one!   |
