@@ -14,13 +14,14 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 15 November '25 | [AWS London ON User Group](https://www.meetup.com/aws-london-on-user-group/events/311838782/?eventOrigin=group_events_list) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases |
+| 1 December '25 | [re:Invent@Home](https://alexradu.my.canva.site/re-invent-home/agenda) | Building a Cost-Effective Research Assistant with Bedrock Agents and S3 Vectors |
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 15 November '25 | [AWS London ON User Group](https://youtu.be/0sx1WSC5GqE) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases |
 | 6 November '25 | [Øredev 2025](https://oredev.org/program) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
 | 6 November '25 | [Øredev 2025](https://oredev.org/program) | Empower your Bedrock agent with GraphRAG |
 | 10 September '25 | [AWS Community Day Baltic](https://awsbaltic.eu/sessions/) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
