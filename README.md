@@ -14,16 +14,18 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 1 December '25 | [re:Invent@Home](https://alexradu.my.canva.site/re-invent-home/agenda) | Building a Cost-Effective Research Assistant with Bedrock Agents and S3 Vectors |
+| 8 January '26 | Online Event | AWS Community Builders: What Is It & How You Can Become One - EU edition |
+| 5 January '26 | [LinkedIn Live Event](https://www.linkedin.com/events/7410520894005071873/) | AWS Community Builders: What Is It & How You Can Become One - NAMER edition |
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 1 December '25 | [re:Invent@Home](https://youtu.be/bx_NhC6XOSQ?list=PLP3eqCBg52ah0kujhuOgIaKlKLfZcAF3r) | Building a Cost-Effective Research Assistant with Bedrock Agents and S3 Vectors |
 | 15 November '25 | [AWS London ON User Group](https://youtu.be/0sx1WSC5GqE) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases |
-| 6 November '25 | [Øredev 2025](https://oredev.org/program) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
-| 6 November '25 | [Øredev 2025](https://oredev.org/program) | Empower your Bedrock agent with GraphRAG |
+| 6 November '25 | [Øredev 2025](https://youtu.be/xwAqncibTSI) | You don’t think about your Streamlit app optimization until you deploy it to AWS |
+| 6 November '25 | [Øredev 2025](https://youtu.be/nqEHgm8bMW8) | Empower your Bedrock agent with GraphRAG |
 | 10 September '25 | [AWS Community Day Baltic](https://awsbaltic.eu/sessions/) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 9 September '25 | [AWS pre:Invent Warmup](https://youtu.be/JRyXS9FyLhs?t=5948) | RAG Without Breaking the Bank: Create a Bedrock Agent with S3 Vector-Powered Knowledge Bases  |
 | 28 Jun '25 | [“Serverless Saturdays” AWS UG Tirupati](https://youtu.be/b2isGkOxzNw?t=3947) | How to build a Bedrock agent for document processing |
@@ -56,6 +58,8 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+| 24 Dec '25 | [It’s All About Serverless](https://youtu.be/HusfsuL7C7s) |   Cloud Journey with Darya Petrashka |
+| 19 Nov '25 | [Day Two DevOps](https://packetpushers.net/podcasts/day-two-devops/d2do287-leveling-up-in-data-science/) |  D2DO287: Leveling Up in Data Science   |
 | 21 Jul '25 | [Kiro Youtube Channel](https://www.youtube.com/shorts/z1gbRMK26pA?feature=share) |  Having Kiro is Like Having a Friend to Whom You Can Delegate Parts of Work   |
 | 21 Jul '25 | [Kiro Youtube Channel](https://www.youtube.com/shorts/AYTexh_28TI?t=13&feature=share) |  I Haven't Seen An Advancement In Developer Process Like This Ever   |
 | 13 Jul '25 | [Thriving Career Moms](https://youtu.be/0Bxipqhrfzc) |  From Verb Tenses to Vectors: When It All Clicked - with Darya Petrashka   |
