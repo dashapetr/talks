@@ -14,8 +14,6 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 8 January '26 | Online Event | AWS Community Builders: What Is It & How You Can Become One - EU edition |
-| 5 January '26 | [LinkedIn Live Event](https://www.linkedin.com/events/7410520894005071873/) | AWS Community Builders: What Is It & How You Can Become One - NAMER edition |
 
 
 ## Past Talks
@@ -58,6 +56,9 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+| 31 Jan '26 | [Fireside chat by Cyril Bandolo](https://youtu.be/tfbhbsQw4gI)|  Starting your cloud journey in 2026   |
+| 8 January '26 | [LinkedIn Live Event](https://www.linkedin.com/video/live/urn:li:ugcPost:7415067311503806464/) | AWS Community Builders: What Is It & How You Can Become One - EU edition |
+| 5 January '26 | [LinkedIn Live Event](https://www.linkedin.com/events/7410520894005071873/) | AWS Community Builders: What Is It & How You Can Become One - NAMER edition |
 | 24 Dec '25 | [It’s All About Serverless](https://youtu.be/HusfsuL7C7s) |   Cloud Journey with Darya Petrashka |
 | 19 Nov '25 | [Day Two DevOps](https://packetpushers.net/podcasts/day-two-devops/d2do287-leveling-up-in-data-science/) |  D2DO287: Leveling Up in Data Science   |
 | 21 Jul '25 | [Kiro Youtube Channel](https://www.youtube.com/shorts/z1gbRMK26pA?feature=share) |  Having Kiro is Like Having a Friend to Whom You Can Delegate Parts of Work   |
