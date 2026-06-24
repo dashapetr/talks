@@ -20,7 +20,8 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 30 May '26 | [AWS London ON User Group](https://www.meetup.com/aws-london-on-user-group/events/314852712/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=337932308) | Capturing the "Why": Building Context Graphs for Explainable AI Agents on AWS|
+| 23 Jun '26 | [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/events/315186079/) | "You are an intelligent business analyst": how I learned to talk to business |
+| 30 May '26 | [AWS London ON User Group](https://youtu.be/RofHzGgzj5E) | Capturing the "Why": Building Context Graphs for Explainable AI Agents on AWS|
 | 20 May '26 | [AWS Summit Hamburg](https://aws.amazon.com/events/summits/hamburg/agenda/) | Capturing the "Why": Building Context Graphs for Explainable AI Agents on AWS|
 | 6 May '26 | [AWS Summit Warsaw](https://aws.amazon.com/events/summits/warsaw/agenda/) | Capturing the "Why": Building Context Graphs for Explainable AI Agents on AWS |
 | 15 April '26 | [PyCon DE & PyData](https://pretalx.com/pyconde-pydata-2026/talk/LVRLSU/) | "You are an intelligent business analyst": how I learned to talk to business |
