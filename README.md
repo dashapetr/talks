@@ -64,6 +64,7 @@ Date|Conference/Meetup|Talk
 Date|Medium|Title
 :-----:|:-----:|:-------:
 | 24 Jun '26 | [BeSa Cloud Academy podcast](https://youtu.be/uyNdrWS8mOI)| I Am a Cloud Builder & This Is My Story Darya Petrashka AWS Community Builder (AI Engineering)   |
+| 31 Mar '26 | [TechMagic Blog](https://www.techmagic.co/blog/shadow-ai-security-risks)| Shadow AI: Security Risks and Practical Ways to Manage Them (+Expert Advice)   |
 | 31 Jan '26 | [Fireside chat by Cyril Bandolo](https://youtu.be/tfbhbsQw4gI)|  Starting your cloud journey in 2026   |
 | 8 Jan '26 | [LinkedIn Live Event](https://www.linkedin.com/video/live/urn:li:ugcPost:7415067311503806464/) | AWS Community Builders: What Is It & How You Can Become One - EU edition |
 | 5 Jan '26 | [LinkedIn Live Event](https://www.linkedin.com/events/7410520894005071873/) | AWS Community Builders: What Is It & How You Can Become One - NAMER edition |
