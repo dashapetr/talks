@@ -14,6 +14,7 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 15 Sep '26 | [AWS Community Day DACH 2026](https://www.aws-community-day.de/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 8 Sep '26 | [AWS Community Day Poland 2026](https://awscommunity.pl/en/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 
 
