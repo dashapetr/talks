@@ -15,13 +15,13 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 15 Sep '26 | [AWS Community Day DACH 2026](https://www.aws-community-day.de/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
-| 8 Sep '26 | [AWS Community Day Poland 2026](https://awscommunity.pl/en/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 
 
 ## Past Talks
 
 #|Date|Conference/Meetup|Talk
 :---------:|:---------:|:---------------:|:--:|
+| 38 | 8 Sep '26 | [AWS Community Day Poland 2026](https://awscommunity.pl/en/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 37 | 25 Jul '26 | [AWS User Group Women in AI Cambridge](https://www.meetup.com/aws-user-group-women-in-ai-cambridge/events/315743796/?eventOrigin=group_past_events) | Building an agent for Document Processing on AWS |
 | 36 | 23 Jun '26 | [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/events/315186079/) | "You are an intelligent business analyst": how I learned to talk to business |
 | 35 | 30 May '26 | [AWS London ON User Group](https://youtu.be/RofHzGgzj5E) | Capturing the "Why": Building Context Graphs for Explainable AI Agents on AWS|
