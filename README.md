@@ -21,6 +21,7 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 #|Date|Conference/Meetup|Talk
 :---------:|:---------:|:---------------:|:--:|
+| 40 | 7 Oct '26 | [AWS User Group Women in Tech Ontario](https://www.meetup.com/aws-women-in-tech-user-group-ontario/events/316791534/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=243432514) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 39 | 15 Sep '26 | [AWS Community Day DACH 2026](https://www.aws-community-day.de/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 38 | 8 Sep '26 | [AWS Community Day Poland 2026](https://awscommunity.pl/en/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 37 | 25 Jul '26 | [AWS User Group Women in AI Cambridge](https://www.meetup.com/aws-user-group-women-in-ai-cambridge/events/315743796/?eventOrigin=group_past_events) | Building an agent for Document Processing on AWS |
