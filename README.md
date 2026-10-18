@@ -14,13 +14,14 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 15 Oct '26 | [AWS North Community Conference](https://www.northcommunityconf.com/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
+| 1 Dec '26 | [AWS AI/ML India User Group](https://www.meetup.com/awsaimlindia/events/316513904/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=324892969) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 
 
 ## Past Talks
 
 #|Date|Conference/Meetup|Talk
 :---------:|:---------:|:---------------:|:--:|
+| 41 | 15 Oct '26 | [AWS North Community Conference](https://www.northcommunityconf.com/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 40 | 7 Oct '26 | [AWS User Group Women in Tech Ontario](https://www.meetup.com/aws-women-in-tech-user-group-ontario/events/316791534/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=243432514) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 39 | 15 Sep '26 | [AWS Community Day DACH 2026](https://www.aws-community-day.de/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
 | 38 | 8 Sep '26 | [AWS Community Day Poland 2026](https://awscommunity.pl/en/) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
