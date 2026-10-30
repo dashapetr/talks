@@ -14,7 +14,9 @@ Many thanks to [Julia Furst Morgado](https://github.com/juliafmorgado) for the i
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 18 Dec '26 | AWS Global Community Gatherings | TBA |
 | 1 Dec '26 | [AWS AI/ML India User Group](https://www.meetup.com/awsaimlindia/events/316513904/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=324892969) | Combining S3 Vectors and S3 Annotations to Build an Intelligent Audit System |
+| 24 Nov '26 | AWS User Group Lviv | How to avoid agentic anti-patterns |
 
 
 ## Past Talks
